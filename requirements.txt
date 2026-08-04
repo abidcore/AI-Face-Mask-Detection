@@ -1,0 +1,9 @@
+# AI Face Mask Detection System - Production Dependencies
+# Compatible with Python 3.10, 3.11, 3.12+
+
+numpy>=1.24.0
+opencv-python>=4.8.0
+tensorflow>=2.13.0
+mediapipe>=0.10.0
+pillow>=10.0.0
+matplotlib>=3.7.0
